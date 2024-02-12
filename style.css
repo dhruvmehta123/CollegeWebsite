@@ -1,0 +1,47 @@
+button{
+    background-color: white;
+    border: 0.5px solid black;
+    border-radius:4px;
+    padding:5px;
+    display:block;
+    margin:25px;
+    box-shadow: 3px 3px 3px grey;
+    
+}
+
+#admin{
+    display:inline-block;
+    width:300px;
+    height:250px;
+    margin-right:10%;
+    margin-top:10%;
+}
+
+.buttons{
+    display:inline-block;
+}
+
+main{
+    margin-left:30%;
+}
+
+header{
+    margin-left:20%;
+}
+
+#plum{
+    text-decoration: none;
+    font-size:10px;
+    display:block;
+}
+
+hr{
+    border:3px solid rgb(8, 8, 172);
+    width:60%;
+    margin-left:20%;
+}
+
+footer{
+    text-align: right;
+    margin-right:20%;
+}
